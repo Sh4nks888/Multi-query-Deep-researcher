@@ -43,6 +43,20 @@ English:
 - Frontend: Vue 3, TypeScript, Vite, Fetch Streaming API
 - Package managers: `uv` is recommended for the backend, `npm` for the frontend
 
+## 运行示例 / Demo
+
+中文：首页输入研究主题后，可以选择搜索引擎并启动多检索研究流程。
+
+English: On the home page, enter a research topic, choose a search backend, and start the multi-query research workflow.
+
+![多检索深度研究助手首页](images/demo1.png)
+
+中文：研究过程中，页面会实时展示任务清单、检索来源、查询变体、置信度、笔记路径和阶段记录。
+
+English: During research, the page displays the task list, retrieved sources, query variants, confidence score, note path, and progress logs in real time.
+
+![多检索深度研究助手运行过程](images/demo2.png)
+
 ## 项目结构 / Project Structure
 
 ```text
