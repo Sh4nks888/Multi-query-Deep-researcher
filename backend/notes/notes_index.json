@@ -1,0 +1,378 @@
+{
+  "notes": [
+    {
+      "id": "note_20260521_170145_0",
+      "title": "研究报告：用中文简要研究：DeepSeek API 当前可用模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-21T17:01:45.769656"
+    },
+    {
+      "id": "note_20260521_170852_1",
+      "title": "任务 1: 核心特性概述",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-21T17:08:52.734956"
+    },
+    {
+      "id": "note_20260521_170852_2",
+      "title": "任务 2: 语法与用法详解",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-21T17:08:52.736847"
+    },
+    {
+      "id": "note_20260521_170852_3",
+      "title": "任务 3: 兼容性与最佳实践",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-21T17:08:52.737931"
+    },
+    {
+      "id": "note_20260521_170942_4",
+      "title": "研究报告：用中文简要研究：Python 3.12 一个新特性",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-21T17:09:42.349737"
+    },
+    {
+      "id": "note_20260521_171155_5",
+      "title": "研究报告：用中文简要研究：Python 3.12 f-string 新特性",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-21T17:11:55.149655"
+    },
+    {
+      "id": "note_20260521_172710_6",
+      "title": "任务 5: 实践示例与最佳实践",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-05-21T17:27:10.591957"
+    },
+    {
+      "id": "note_20260521_172713_7",
+      "title": "任务 4: 性能与兼容性变化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-21T17:27:13.897176"
+    },
+    {
+      "id": "note_20260521_172716_8",
+      "title": "任务 2: 反斜杠与多行支持",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-21T17:27:16.872209"
+    },
+    {
+      "id": "note_20260521_172721_9",
+      "title": "任务 1: 新特性总览",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-21T17:27:21.512566"
+    },
+    {
+      "id": "note_20260521_172748_10",
+      "title": "任务 3: 赋值表达式与扩展语法",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-21T17:27:48.410816"
+    },
+    {
+      "id": "note_20260521_172922_11",
+      "title": "研究报告：用中文简要研究：Python 3.12 f-string 新特性",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-21T17:29:22.678289"
+    },
+    {
+      "id": "note_20260614_143514_12",
+      "title": "研究报告：探索多模态模型在2025年的研究突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-14T14:35:14.133952"
+    },
+    {
+      "id": "note_20260614_144911_13",
+      "title": "任务 2: 框架生态",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-06-14T14:49:11.947877"
+    },
+    {
+      "id": "note_20260614_144917_14",
+      "title": "任务 3: 应用场景",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-14T14:49:17.462230"
+    },
+    {
+      "id": "note_20260614_144937_15",
+      "title": "任务 1: 技术架构",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-06-14T14:49:37.769056"
+    },
+    {
+      "id": "note_20260614_145129_16",
+      "title": "研究报告：探索Agent应用技术",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-14T14:51:29.406164"
+    },
+    {
+      "id": "note_20260614_151343_17",
+      "title": "任务 3: 框架工具",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-14T15:13:43.113404"
+    },
+    {
+      "id": "note_20260614_151551_18",
+      "title": "任务 4: 学习路径",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-06-14T15:15:51.143847"
+    },
+    {
+      "id": "note_20260614_151905_19",
+      "title": "研究报告：Agent技术学习路线调研",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-14T15:19:05.201760"
+    },
+    {
+      "id": "note_20260614_153834_20",
+      "title": "任务 1: 概念框架",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-06-14T15:38:34.958598"
+    },
+    {
+      "id": "note_20260614_154016_21",
+      "title": "任务 2: 基础知识",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-06-14T15:40:16.200249"
+    },
+    {
+      "id": "note_20260614_154225_22",
+      "title": "任务 3: 技术栈选型",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-14T15:42:25.148187"
+    },
+    {
+      "id": "note_20260614_154431_23",
+      "title": "任务 4: 项目实践",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-06-14T15:44:31.060127"
+    },
+    {
+      "id": "note_20260614_154602_24",
+      "title": "任务 5: 评估部署",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-06-14T15:46:02.294753"
+    },
+    {
+      "id": "note_20260614_154713_25",
+      "title": "研究报告：Agent学习路线",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-14T15:47:13.234930"
+    },
+    {
+      "id": "note_20260614_161808_26",
+      "title": "任务 1: 概念边界",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-06-14T16:18:08.823728"
+    },
+    {
+      "id": "note_20260614_162026_27",
+      "title": "任务 2: 技术架构",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-06-14T16:20:26.953227"
+    },
+    {
+      "id": "note_20260614_162316_28",
+      "title": "任务 3: 代表系统",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-14T16:23:16.173742"
+    },
+    {
+      "id": "note_20260614_162539_29",
+      "title": "任务 4: 评测方法",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-06-14T16:25:39.806883"
+    },
+    {
+      "id": "note_20260614_162744_30",
+      "title": "任务 5: 应用趋势",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-06-14T16:27:44.511478"
+    },
+    {
+      "id": "note_20260614_171141_31",
+      "title": "任务 1: 模型发布",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-06-14T17:11:41.379540"
+    },
+    {
+      "id": "note_20260614_171223_32",
+      "title": "任务 2: 能力边界",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-06-14T17:12:23.291696"
+    },
+    {
+      "id": "note_20260614_171343_33",
+      "title": "任务 3: 评测基准",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-14T17:13:43.345688"
+    },
+    {
+      "id": "note_20260614_171443_34",
+      "title": "任务 4: 技术路线",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-06-14T17:14:43.433733"
+    },
+    {
+      "id": "note_20260614_171535_35",
+      "title": "任务 5: 应用落地",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-06-14T17:15:35.840959"
+    },
+    {
+      "id": "note_20260614_171714_36",
+      "title": "研究报告：探索多模态模型在2025年的关键性突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-14T17:17:14.041223"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-05-21T16:57:57.434419",
+    "total_notes": 37
+  }
+}
